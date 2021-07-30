@@ -116,3 +116,4 @@ env/
 qtable_charts/
 qtables/
 videos/
+*.pickle
